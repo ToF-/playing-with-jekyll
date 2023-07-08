@@ -1,0 +1,6 @@
+mysite/_site/
+mysite/.sass-cache/
+mysite/.jekyll-cache/
+mysite/.jekyll-metadata
+mysite/.DS_Store
+mysite/.direnv/
